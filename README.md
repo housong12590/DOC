@@ -1,0 +1,1 @@
+[hs][http://www.baidu.com]
