@@ -1,3 +1,4 @@
 git add .
-git commit -m "housong"
+read msg
+git commit -m $msg
 git push
