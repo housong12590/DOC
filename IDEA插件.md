@@ -11,6 +11,10 @@
 
 [下载地址](https://github.com/YiiGuxing/TranslationPlugin)
 
+效果图
+
+![](http://oa5jgcq4p.bkt.clouddn.com/TIM%E6%88%AA%E5%9B%BE20171018170501.png)
+
 支持的IDE :
 
 - Android Studio
