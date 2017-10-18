@@ -1,5 +1,5 @@
 ### 翻译插件
-##### ECTranslation
+#### ECTranslation
 
 [下载地址](https://github.com/Skykai521/ECTranslation)
 
@@ -7,7 +7,7 @@
 
 
 
-##### Translation 
+#### Translation 
 
 [下载地址](https://github.com/YiiGuxing/TranslationPlugin)
 
