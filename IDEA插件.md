@@ -1,2 +1,6 @@
-#### 翻译插件 
+##IDEA插件
+
+#### 翻译插件
 - [ECTranslation][https://github.com/Skykai521/ECTranslation] 直接下载jar包,具体教程都有说明
+- ​
+
